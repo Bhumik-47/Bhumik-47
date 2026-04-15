@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👨‍💻 Bhumik Sharma
+**CSE Student @ GL Bajaj | Python & Web Development | AI Enthusiast**
 
-<!--
-**Bhumik-47/Bhumik-47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 **B.Tech (CSE)** student with a **8.7 CGPA**.
+- 🛠️ Passionate about building **Agentic AI** systems and **Parametric Insurance** solutions.
+- 🏆 Active Competitive Programmer: **LeetCode (300+ Solved)** | **CodeChef (1400+)**.
+- 🛡️ Building **GigGuard AI**, a real-time AI-powered insurance system for gig workers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | C++, Python, Java, JavaScript, SQL |
+| **Frontend** | React.js, Next.js, Tailwind CSS |
+| **Backend** | FastAPI, Node.js, Firebase |
+| **AI/ML** | Gemini API (LLM Integration), Agentic Workflows |
+| **DevOps** | Git, Docker, Vercel |
+
+---
+
+### 🔥 Featured Projects
+#### 🛡️ [GigGuard AI](https://github.com/Bhumik-47/GigGuard-AI)
+*Real-time AI-powered parametric insurance system for gig workers.*
+- **Tech:** FastAPI, Gemini API, Firebase, React.
+- **Key Feature:** Autonomous AI agents triggering instant payouts via environmental parameters.
+
+#### 🤖 [Personal Life Agent](https://github.com/Bhumik-47/Personal-Life-Agent)
+*Autonomous scheduling agent using Gemini and Google Calendar APIs.*
+- Integrated Firebase and Gmail API for seamless schedule management.
+
+#### 📊 [Codeforces Assistant](https://github.com/Bhumik-47/Codeforces-Assistant)
+*Full-stack analyzer for competitive programming workflows.*
+
+---
+
+### 📈 GitHub Stats
+![Bhumik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhumik-47&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumik-47&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with me
+- 💼 [LinkedIn](https://linkedin.com/in/bhumik-sharma)
+- 📧 [Email](mailto:your-email@example.com)
+- 🚀 [LeetCode](https://leetcode.com/Bhumik_47)
+
+---
+*"Building the future, one prompt at a time."*
