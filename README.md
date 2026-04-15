@@ -37,17 +37,18 @@
 
 ---
 ### 📈 GitHub Stats & Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhumik-47&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Bhumik's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhumik-47&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Bhumik's GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhumik-47&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumik-47&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumik-47&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhumik-47&repo=GigGuard-AI&theme=radical" alt="GigGuard-AI Stars" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhumik-47&repo=GigGuard-AI&theme=radical" alt="GigGuard-AI Stats" />
 </p>
 ---
 
