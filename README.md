@@ -49,8 +49,8 @@
 ---
 
 ### 📫 Connect with me
-- 💼 [LinkedIn](https://linkedin.com/in/bhumik-sharma)
-- 📧 [Email](mailto:your-email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/bhumik-sharma-3864ba337 )
+- 📧 [Email](mailto:bhumikkannu@gmail.com)
 - 🚀 [LeetCode](https://leetcode.com/Bhumik_47)
 
 ---
