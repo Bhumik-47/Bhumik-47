@@ -1,5 +1,5 @@
 # 👨‍💻 Bhumik Sharma
-**CSE Student @ GL Bajaj | Python & Web Development | AI Enthusiast**
+**CSE Student @ GL Bajaj | Web Development + AI**
 
 ---
 
