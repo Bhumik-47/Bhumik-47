@@ -25,15 +25,10 @@
 ### 🔥 Featured Projects
 #### 🛡️ [GigGuard AI](https://github.com/Bhumik-47/GigGuard-AI)
 *Real-time AI-powered parametric insurance system for gig workers.*
-- **Tech:** FastAPI, Gemini API, Firebase, React.
-- **Key Feature:** Autonomous AI agents triggering instant payouts via environmental parameters.
+
 
 #### 📊 [Codeforces Assistant](https://github.com/Bhumik-47/Codeforces-Assistant)
 *Full-stack analyzer for competitive programming workflows.*
-
-#### 🤖 [Personal Life Agent](https://github.com/Bhumik-47/Personal-Life-Agent)
-*Autonomous scheduling agent using Gemini and Google Calendar APIs.*
-- Integrated Firebase and Gmail API for seamless schedule management.
 
 ---
 ### 📈 GitHub Stats & Activity
