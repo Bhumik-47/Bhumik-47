@@ -16,7 +16,7 @@
 | :--- | :--- |
 | **Languages** | C++, Python, Java, JavaScript, SQL |
 | **Frontend** | React.js, Next.js, Tailwind CSS |
-| **Backend** | FastAPI, Node.js, Firebase |
+| **Backend** | Node.js|
 | **AI/ML** | Gemini API (LLM Integration), Agentic Workflows |
 | **DevOps** | Git, Docker, Vercel |
 
