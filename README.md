@@ -1,4 +1,4 @@
-# 👨‍💻 Bhumik Sharma
+**# 👨‍💻 Bhumik Sharma
 **CSE Student @ GL Bajaj | Web Development + AI**
 
 ---
@@ -57,3 +57,4 @@
 
 ---
 *"Building the future, one prompt at a time."*
+**
