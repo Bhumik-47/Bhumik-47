@@ -6,31 +6,13 @@
 ### 🚀 About Me
 - 🎓 **B.Tech (CSE)** student with a **8.7 CGPA**.
 - 🛠️ Passionate about building **Scalable web** systems and **Software** solutions.
-- 🏆 Active Competitive Programmer: **LeetCode (450+ Solved)** | **CodeChef (1400+) 2 ⭐**.
+- 🏆 Active Competitive Programmer: **LeetCode (500+ Solved)** | **CodeChef (1400+) 2 ⭐**.
 - 🛡️ Building **GigGuard AI**, a real-time AI-powered insurance system for gig workers.
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <br />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <br />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,py,java,js,mysql,react,nextjs,tailwind,nodejs,express,git,docker,vercel)](https://skillicons.dev)
 
 ---
 
@@ -42,7 +24,6 @@
 *Full-stack analyzer for competitive programming workflows.*
 
 ---
-
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
@@ -53,7 +34,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhumik-47&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumik-47&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
 </p>
-
 ---
 
 ### 📫 Connect with me
