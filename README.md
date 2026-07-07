@@ -6,7 +6,7 @@
 ### 🚀 About Me
 - 🎓 **B.Tech (CSE)** student with a **8.7 CGPA**.
 - 🛠️ Passionate about building **Scalable web** systems and **Software** solutions.
-- 🏆 Active Competitive Programmer: **LeetCode (450+ Solved)** | **CodeChef (1400+) 2 ⭐**.
+- 🏆 Active Competitive Programmer: **LeetCode (500+ Solved)** | **CodeChef (1400+) 2 ⭐**.
 - 🛡️ Building **GigGuard AI**, a real-time AI-powered insurance system for gig workers.
 
 ---
